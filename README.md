@@ -37,6 +37,17 @@
 - You will see how deep or wide candidates knowledge is.
 - What parts of your language/framework sucks?
 - What other technologies are you interested in but don't have ability to try?
+- Any personal projects? own business? or plans?
+
+4. Do not ask 'Why do you want to work here?'
+
+- Money, everything else is a bullshit.
+
+5. Looks for the candidates that:
+
+- Is able to grow with a team (junior-middle)
+- Is able to grow a team and company (middle-senior)
+- Is able to introduce new things to a team (junior-middle-senior)
 
 ## Junior developer
 
