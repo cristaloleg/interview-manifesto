@@ -101,7 +101,7 @@
 2. Implement a basic function (like `len`, `map`, `filter` so on)
 
 - You will be amazed how many developers cannnot make it.
-- Event with 3+ years of experience.
+- Even with 3+ years of experience.
 - Also a good question to switch to the editor and talk about it.
 
 3. Why do we need indexes in databases?
