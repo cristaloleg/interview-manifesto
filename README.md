@@ -132,6 +132,12 @@
 3. What problems you had on previous jobs?
 - how to solve them?
 - are you ok that this might appear here too?
+4. System design
+- How good candidates asks for the clarifications?
+- How deeply it explains things?
+- Pros and cons before selecting a tool.
+- Trade offs.
+- Maintain.
 
 ## QA
 TODO
