@@ -40,6 +40,7 @@
 
 ## Junior developer
 
+0. TODO
 
 1. Check candidates logic
 
@@ -76,6 +77,40 @@
   - or those who can investigate the problem and find a solution?
 
 ## Developer (aka middle developer)
+
+0. TODO
+
+1. How to keep code clean and usable?
+
+- Linters, static analysis tool
+- Code review
+- Good abstractions
+- ...
+
+2. Implement a basic function (like `len`, `map`, `filter` so on)
+
+- You will be amazed how many developers cannnot make it.
+- Event with 3+ years of experience.
+- Also a good question to switch to the editor and talk about it.
+
+3. Why do we need indexes in databases?
+
+- What type of indexes do we have?
+- Pros and cons of them.
+- and off course when we do not need them?
+
+4. Ask about previous project in details
+
+- What was the load?
+- What about storage?
+  - Is everything is fine?
+  - Why exactly XXX?
+
+5. Do not expect to see best code ever
+
+- Candidate has a stress.
+- Keep errors as something inevitable.
+- Care to help after few minutes of stuck.
 
 ## Senior developer
 
