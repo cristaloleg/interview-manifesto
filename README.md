@@ -6,7 +6,11 @@
 
 0. Etiquette
 
-Say hello, ask how is a candidate? is everything okay? suggest a water/coffee/tea/juice/etc. Simple things to make a situation less stressful.
+- Say hello!
+- Ask how is a candidate?
+- Is everything okay?
+- Suggest a water/coffee/tea/juice/etc.
+- Simple things to make a situation less stressful.
 
 1. Introduce yourself
 
@@ -20,6 +24,19 @@ Say hello, ask how is a candidate? is everything okay? suggest a water/coffee/te
 - How long do you work here?
 - What makes it cool?
 - (Maybe) what can be done better?
+
+2. Ask about candidates experience
+
+- That's a starting point to understand who is in front of you.
+- CV is a good thing, same as Github, Stackoverflow or personal blog.
+- But during real conversation you will get much more details.
+- Off course if you will ask for them.
+
+3. What technologies are you familiar with?
+
+- You will see how deep or wide candidates knowledge is.
+- What parts of your language/framework sucks?
+- What other technologies are you interested in but don't have ability to try?
 
 ## Junior developer
 
