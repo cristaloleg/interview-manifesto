@@ -40,6 +40,41 @@
 
 ## Junior developer
 
+
+1. Check candidates logic
+
+- Why programming makes candidate happy?
+  - money, for sure, as everyone
+  - but what makes it more enjoable?
+  
+- Who does candidate looks for the answer?
+  - Is he/she able to Google the answer?
+
+- How a web service can be debugged?
+  - is this an app or infra problem?
+  - are logs/metrics/traces were mentioned?
+  - did someone talk to the teammates?
+  
+2. Ask computer science basics
+
+- Types of sorting
+  - simple question to see compute science background
+  
+- Why do we need databases?
+
+- What is the type in the language?
+  - what is the difference between int and string?
+  
+- What data structures do we have and why?
+  - Splay-tree is cool, but have you used it personally?
+  - Don't ask something that goes far beyond regular development day.
+  
+3. Do not rush into documentation questions
+
+- Don't ask all the implementation of `IList` in language XXX
+  - are we interested in those who remembers everything
+  - or those who can investigate the problem and find a solution?
+
 ## Developer
 
 ## Senior developer
