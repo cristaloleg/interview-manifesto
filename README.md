@@ -75,6 +75,19 @@
   - are we interested in those who remembers everything
   - or those who can investigate the problem and find a solution?
 
-## Developer
+## Developer (aka middle developer)
 
 ## Senior developer
+
+1. 
+
+## QA
+TODO
+## DevOps/SRE
+TODO
+## Team leader
+TODO
+## Architect
+TODO
+
+### Notes
