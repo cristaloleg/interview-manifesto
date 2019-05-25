@@ -114,7 +114,13 @@
 
 ## Senior developer
 
-1. 
+0. TODO
+
+1. How to develop a new project?
+2. How to build a team?
+3. What problems you had on previous jobs?
+- how to solve them?
+- are you ok that this might appear here too?
 
 ## QA
 TODO
